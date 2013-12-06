@@ -1,0 +1,25 @@
+{
+  "name": "crush-jquery",
+  "version": "0.1.0",
+  "description": "Crush & Lovely jQuery extensions",
+  "main": "lib/extensions.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine-node test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crushlovely/crush-jquery.git"
+  },
+  "author": "createbang",
+  "license": "BSD",
+  "dependencies": {
+    "jQuery": "*"
+  },
+  "devDependencies": {
+    "jasmine-node": "*",
+    "jasmine-jquery": "*"
+  }
+}
