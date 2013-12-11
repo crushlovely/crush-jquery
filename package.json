@@ -17,9 +17,5 @@
   "license": "BSD",
   "dependencies": {
     "jQuery": "*"
-  },
-  "devDependencies": {
-    "jasmine-node": "*",
-    "jasmine-jquery": "*"
   }
 }
